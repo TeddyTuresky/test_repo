@@ -1,0 +1,6 @@
+Write-access test file created by Claude Code on 2026-09-22.
+
+Purpose: confirm the commit + push chain to github.com/TeddyTuresky/test_repo
+works end to end (HTTPS + fine-grained PAT).
+
+Safe to delete.
